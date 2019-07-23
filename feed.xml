@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>Comunidade Python de Blumenau</description>
+    <link>https://blumenau.sc.python.org.br/</link>
+    <atom:link href="https://blumenau.sc.python.org.br/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 23 Jul 2019 15:16:23 +0000</pubDate>
+    <lastBuildDate>Tue, 23 Jul 2019 15:16:23 +0000</lastBuildDate>
+    <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Veja como foi o tutorial de Django no VIII Encontro</title>
+        <description>&lt;p&gt;No dia 20/07/2019 tivemos um tutorial de Django utilizando o material da comunidade &lt;a href=&quot;https://djangogirls.org/&quot;&gt;DjangoGirls&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Link da Apresentação: &lt;a href=&quot;https://docs.google.com/presentation/d/1ExVB1JIo6JxWTBpF2gaCbe80QVT-I7_ZBOGXGwCkNz0/edit?usp=sharing&quot;&gt;https://docs.google.com/presentation/d/1ExVB1JIo6JxWTBpF2gaCbe80QVT-I7_ZBOGXGwCkNz0/edit?usp=sharing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Veja as fotos da nossa participação:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/encontros/2019/07/tutorial-django/tutorial-django-1.png&quot; alt=&quot;Participantes do tutorial na FURB&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/encontros/2019/07/tutorial-django/tutorial-django-2.png&quot; alt=&quot;Brindes do tutorial na FURB&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/encontros/2019/07/tutorial-django/tutorial-django-encontro-8-grupy-blumenau.png&quot; alt=&quot;Tutorial de Django na FURB&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/pythonbnu/&quot;&gt;GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://twitter.com/pythonbnu&quot;&gt;GruPyBnu no Twitter&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://telegram.me/GruPyBnu&quot;&gt;GruPyBnu no Telegram&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://hackerspaceblumenau.slack.com/messages/C6U70HXK4&quot;&gt;GruPyBnu no Slack&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/185266825299444/&quot;&gt;Lista de discussão GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/python.brasil/&quot;&gt;Comunidade de Python brasileira no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://groups.google.com/forum/#!forum/python-brasil&quot;&gt;Lista de discussão da comunidade de Python do Brasil&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Grande abraço!
+#forcapython&lt;/p&gt;
+</description>
+        <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+        <link>https://blumenau.sc.python.org.br/tutoriais/2019/07/21/veja-como-foi-o-tuturial-de-django-no-oitavo-encontro.html</link>
+        <guid isPermaLink="true">https://blumenau.sc.python.org.br/tutoriais/2019/07/21/veja-como-foi-o-tuturial-de-django-no-oitavo-encontro.html</guid>
+        
+        
+        <category>tutoriais</category>
+        
+      </item>
+    
+      <item>
+        <title>IX Encontro do GruPy Blumenau</title>
+        <description>&lt;p&gt;IX Encontro do GruPy Blumenau&lt;/p&gt;
+
+&lt;p&gt;No dia 31 de Agosto teremos mais um meetup da comunidade GruPy Blumenau!&lt;/p&gt;
+
+&lt;p&gt;A ideia desse encontro é organizar palestras de +/- 45 minutos e ter um espaço para mais duas palestras curtas de +/- 15 minutos.&lt;/p&gt;
+
+&lt;p&gt;Por favor, mencione a duração da sua palestra ao enviar a proposta.&lt;/p&gt;
+
+&lt;p&gt;O encontro será no Campus 1 da FURB (sala à definir).&lt;/p&gt;
+
+&lt;p&gt;Submeta sua proposta de palestra até dia 20/08/2019 pelo speakerfight - &lt;a href=&quot;https://speakerfight.com/events/ix-encontro-do-grupy-blumenau/&quot;&gt;https://speakerfight.com/events/ix-encontro-do-grupy-blumenau/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Compartilhe o seu conhecimento conosco!&lt;/p&gt;
+
+&lt;p&gt;Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/pythonbnu/&quot;&gt;GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://twitter.com/pythonbnu&quot;&gt;GruPyBnu no Twitter&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://telegram.me/GruPyBnu&quot;&gt;GruPyBnu no Telegram&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://hackerspaceblumenau.slack.com/messages/C6U70HXK4&quot;&gt;GruPyBnu no Slack&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/185266825299444/&quot;&gt;Lista de discussão GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/python.brasil/&quot;&gt;Comunidade de Python brasileira no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://groups.google.com/forum/#!forum/python-brasil&quot;&gt;Lista de discussão da comunidade de Python do Brasil&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Grande abraço!
+#forcapython&lt;/p&gt;
+</description>
+        <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+        <link>https://blumenau.sc.python.org.br/encontros/2019/07/21/nono-encontro-grupy-blumenau.html</link>
+        <guid isPermaLink="true">https://blumenau.sc.python.org.br/encontros/2019/07/21/nono-encontro-grupy-blumenau.html</guid>
+        
+        
+        <category>encontros</category>
+        
+      </item>
+    
+      <item>
+        <title>VIII Encontro do GruPy Blumenau - Workshop de Django</title>
+        <description>&lt;p&gt;No dia 20 de Julho teremos mais um meetup da comunidade GruPy Blumenau! O encontro será na FURB, na R. Antônio da Veiga, 140 - Victor Konder, Blumenau - SC.&lt;/p&gt;
+
+&lt;p&gt;Neste encontro vai rolar um workshop de Django para criar um Blog.&lt;/p&gt;
+
+&lt;p&gt;Faça a sua inscrição pelo Meetup:
+&lt;a href=&quot;https://www.meetup.com/hackerspaceblumenau/events/262638110/&quot;&gt;https://www.meetup.com/hackerspaceblumenau/events/262638110/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Workshop de Django vai ser feito com o material da comunidade &lt;a href=&quot;https://tutorial.djangogirls.org/pt/&quot;&gt;djangogirls&lt;/a&gt; onde iremos apresentar o framework e construir um blog passando pelos principais recursos do framework.&lt;/p&gt;
+
+&lt;p&gt;Os temas cobertos durante o workshop são:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A linguagem python (focado em python 3+), mas demonstrando algumas das novidades&lt;/li&gt;
+  &lt;li&gt;Como instalar pacotes/bibliotecas e gerenciar ambientes virtuais&lt;/li&gt;
+  &lt;li&gt;Funcionalidades do Django&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;O foco do workshop é para iniciantes em Django, mas se você já tem experiência pode comparecer para compartilhar suas ideias e ajudar as demais pessoas que estão aprendendo.&lt;/p&gt;
+
+&lt;p&gt;Vamos iniciar às 9h até às 12h, mas teremos uma pausa de 30 minutos para café.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/encontro-8-grupy-blumenau.jpg&quot; alt=&quot;VIII Encontro do GruPy Blumenau - Workshop de Django&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/pythonbnu/&quot;&gt;GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://twitter.com/pythonbnu&quot;&gt;GruPyBnu no Twitter&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://telegram.me/GruPyBnu&quot;&gt;GruPyBnu no Telegram&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://hackerspaceblumenau.slack.com/messages/C6U70HXK4&quot;&gt;GruPyBnu no Slack&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/185266825299444/&quot;&gt;Lista de discussão GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/python.brasil/&quot;&gt;Comunidade de Python brasileira no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://groups.google.com/forum/#!forum/python-brasil&quot;&gt;Lista de discussão da comunidade de Python do Brasil&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Grande abraço!
+#forcapython&lt;/p&gt;
+</description>
+        <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+        <link>https://blumenau.sc.python.org.br/encontros/2019/06/21/oitavo-encontro-grupy-blumenau.html</link>
+        <guid isPermaLink="true">https://blumenau.sc.python.org.br/encontros/2019/06/21/oitavo-encontro-grupy-blumenau.html</guid>
+        
+        
+        <category>encontros</category>
+        
+      </item>
+    
+      <item>
+        <title>Dojo Problema: Faixa de Letras</title>
+        <description>&lt;p&gt;No terceiro dojo de 2019 do GruPy Blumenau resolvemos um problema que foi &lt;a href=&quot;https://www.urionlinejudge.com.br/judge/pt/problems/view/1276&quot;&gt;“Faixa de Letras”&lt;/a&gt;. O evento aconteuceu na FURB e a solução deste problema você pode ver em nosso &lt;a href=&quot;https://github.com/pythonbnu/dojo/tree/master/2019_06_18&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/pythonbnu/&quot;&gt;GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://twitter.com/pythonbnu&quot;&gt;GruPyBnu no Twitter&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://telegram.me/GruPyBnu&quot;&gt;GruPyBnu no Telegram&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://hackerspaceblumenau.slack.com/messages/C6U70HXK4&quot;&gt;GruPyBnu no Slack&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/185266825299444/&quot;&gt;Lista de discussão GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/python.brasil/&quot;&gt;Comunidade de Python brasileira no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://groups.google.com/forum/#!forum/python-brasil&quot;&gt;Lista de discussão da comunidade de Python do Brasil&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Grande abraço!
+#forcapython&lt;/p&gt;
+</description>
+        <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+        <link>https://blumenau.sc.python.org.br/dojo/2019/06/18/dojo-faixa-de-letras.html</link>
+        <guid isPermaLink="true">https://blumenau.sc.python.org.br/dojo/2019/06/18/dojo-faixa-de-letras.html</guid>
+        
+        
+        <category>dojo</category>
+        
+      </item>
+    
+      <item>
+        <title>Palestras do VI Encontro do GruPy Blumenau</title>
+        <description>&lt;p&gt;No VI Encontro do GruPy que aconteceu na FURB tivemos uma série de palestras na nossa grade com os seguintes assuntos:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“Coletando dados da web com web scraping” por Julio&lt;/li&gt;
+  &lt;li&gt;“Python 3 Funcional: É uma boa escolha?” por Artur Bizon&lt;/li&gt;
+  &lt;li&gt;“Aprendendo GraphQL na pratica com living code” por Marcos&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Todo conteúdo foi gravado e esta disponível no &lt;a href=&quot;https://www.youtube.com/channel/UCpYa4wTH1bg_pvsHFw9FImQ&quot;&gt;Youtube em nosso canal.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Videos:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/z-8Zj8K7oac&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ikRmsfT-r5s&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/a4LuMkvBre8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Fotos:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/encontro-18-05-2019/comunidade.jpg&quot; alt=&quot;Participantes do VI Econtro do Grupy&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/encontro-18-05-2019/palestra.jpg&quot; alt=&quot;Foto da palestra&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/pythonbnu/&quot;&gt;GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://twitter.com/pythonbnu&quot;&gt;GruPyBnu no Twitter&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://telegram.me/GruPyBnu&quot;&gt;GruPyBnu no Telegram&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://hackerspaceblumenau.slack.com/messages/C6U70HXK4&quot;&gt;GruPyBnu no Slack&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/185266825299444/&quot;&gt;Lista de discussão GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/python.brasil/&quot;&gt;Comunidade de Python brasileira no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://groups.google.com/forum/#!forum/python-brasil&quot;&gt;Lista de discussão da comunidade de Python do Brasil&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Grande abraço!&lt;/p&gt;
+
+&lt;p&gt;#forcapython&lt;/p&gt;
+</description>
+        <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+        <link>https://blumenau.sc.python.org.br/talks/2019/05/24/talks-do-sexto-encontro-grupy-blumenau.html</link>
+        <guid isPermaLink="true">https://blumenau.sc.python.org.br/talks/2019/05/24/talks-do-sexto-encontro-grupy-blumenau.html</guid>
+        
+        
+        <category>talks</category>
+        
+      </item>
+    
+      <item>
+        <title>GruPy Blumenau no FLISoL Blumenau 2019</title>
+        <description>&lt;p&gt;No dia 27/04/2019 nós participamos da &lt;a href=&quot;http://www.hackerspaceblumenau.org/flisol/&quot;&gt;edição de 2019 do FLISoL Blumenau&lt;/a&gt; organizada pelo &lt;a href=&quot;www.hackerspaceblumenau.org/&quot;&gt;Hackerspace Blumenau&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A nossa participação foi com uma oficina de 2h sobre os conceitos da linguagem python.
+O material você pode conferir &lt;a href=&quot;https://github.com/pythonbnu/workshop-python-iniciante&quot;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/pythonbnu/&quot;&gt;GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://twitter.com/pythonbnu&quot;&gt;GruPyBnu no Twitter&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://telegram.me/GruPyBnu&quot;&gt;GruPyBnu no Telegram&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://hackerspaceblumenau.slack.com/messages/C6U70HXK4&quot;&gt;GruPyBnu no Slack&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/185266825299444/&quot;&gt;Lista de discussão GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/python.brasil/&quot;&gt;Comunidade de Python brasileira no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://groups.google.com/forum/#!forum/python-brasil&quot;&gt;Lista de discussão da comunidade de Python do Brasil&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Grande abraço!
+#forcapython&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+        <link>https://blumenau.sc.python.org.br/encontros/2019/05/01/grupy-no-flisol-blumenau.html</link>
+        <guid isPermaLink="true">https://blumenau.sc.python.org.br/encontros/2019/05/01/grupy-no-flisol-blumenau.html</guid>
+        
+        
+        <category>encontros</category>
+        
+      </item>
+    
+      <item>
+        <title>GruPy na Semana acadêmica de computação da FURB 2019</title>
+        <description>&lt;p&gt;No dia 29/04/2019 e 30/04/2019 rolou a Semana acadêmica de computação da FURB. O GruPy participou deste evento dando um workshop de Python para iniciantes e uma palestra com o tema “Por que Python?”. O worshop aconteceu na manhã do dia 29/04 com uma duração de 2hs. Já a palestra aconteceu no dia 30/04 na parte da noite.&lt;/p&gt;
+
+&lt;p&gt;O material do workshop é aberto e temos um repositório no github que você pode conferir &lt;a href=&quot;https://github.com/pythonbnu/workshop-python-iniciante&quot;&gt;aqui&lt;/a&gt;. Neste workshop tivemos a participação dos alunos da FURB e da comunidade os representantes foram Júlio César Batista e Raffael Tancman.&lt;/p&gt;
+
+&lt;p&gt;Sobre a palestra, Patrícia Gonsalves e Raffael Tancman incentivaram os alunos da FURB e convidados para iniciarem a sua jornada na comunidade de Python passando pela história da linguagem, características, comunidade e o mercado de trabalho. Você pode acessar a apresentação &lt;a href=&quot;https://docs.google.com/presentation/d/1WQWPi_H44KaxVjjLWtV6fzdkIlTqRcFK6Y1_LQ5uODg/edit?usp=sharing&quot;&gt;clicando neste link&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Veja as fotos da nossa participação:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/semana-academica-de-computacao-furb-2019-04/foto-workshop-furb-python.jpg&quot; alt=&quot;Participantes do Workshop na FURB&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/semana-academica-de-computacao-furb-2019-04/foto-workshop-furb-python-2.jpg&quot; alt=&quot;Participantes do Workshop na FURB foto 2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/semana-academica-de-computacao-furb-2019-04/foto-galera-palestra-por-que-python.jpg&quot; alt=&quot;Participantes da Palestra na FURB&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/semana-academica-de-computacao-furb-2019-04/foto-palestrantes-por-que-python.jpg&quot; alt=&quot;Palestrantes do GruPy na FURB&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/pythonbnu/&quot;&gt;GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://twitter.com/pythonbnu&quot;&gt;GruPyBnu no Twitter&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://telegram.me/GruPyBnu&quot;&gt;GruPyBnu no Telegram&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://hackerspaceblumenau.slack.com/messages/C6U70HXK4&quot;&gt;GruPyBnu no Slack&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/185266825299444/&quot;&gt;Lista de discussão GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/python.brasil/&quot;&gt;Comunidade de Python brasileira no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://groups.google.com/forum/#!forum/python-brasil&quot;&gt;Lista de discussão da comunidade de Python do Brasil&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Grande abraço!
+#forcapython&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+        <link>https://blumenau.sc.python.org.br/encontros/2019/05/01/grupy-na-semana-academica-de-computacao-furb-blumenau.html</link>
+        <guid isPermaLink="true">https://blumenau.sc.python.org.br/encontros/2019/05/01/grupy-na-semana-academica-de-computacao-furb-blumenau.html</guid>
+        
+        
+        <category>encontros</category>
+        
+      </item>
+    
+      <item>
+        <title>VI Encontro do GruPy Blumenau</title>
+        <description>&lt;p&gt;No dia 18 de Maio teremos mais um meetup da comunidade GruPy Blumenau! O encontro será na FURB, na R. Antônio da Veiga, 140 - Victor Konder, Blumenau - SC.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.meetup.com/hackerspaceblumenau/events/260967562/&quot;&gt;Faça a sua inscrição pelo Meetup clicando aqui!!!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Você também pode submeter a sua proposta de palestras ou workshop para o nosso encontro pelo Speakerfight:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://speakerfight.com/events/vi-encontro-do-grupy-blumenau-maio2019/&quot;&gt;https://speakerfight.com/events/vi-encontro-do-grupy-blumenau-maio2019/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/pythonbnu/&quot;&gt;GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://twitter.com/pythonbnu&quot;&gt;GruPyBnu no Twitter&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://telegram.me/GruPyBnu&quot;&gt;GruPyBnu no Telegram&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://hackerspaceblumenau.slack.com/messages/C6U70HXK4&quot;&gt;GruPyBnu no Slack&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/185266825299444/&quot;&gt;Lista de discussão GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/python.brasil/&quot;&gt;Comunidade de Python brasileira no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://groups.google.com/forum/#!forum/python-brasil&quot;&gt;Lista de discussão da comunidade de Python do Brasil&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Grande abraço!
+#forcapython&lt;/p&gt;
+</description>
+        <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
+        <link>https://blumenau.sc.python.org.br/encontros/2019/04/18/sexto-encontro-grupy-blumenau.html</link>
+        <guid isPermaLink="true">https://blumenau.sc.python.org.br/encontros/2019/04/18/sexto-encontro-grupy-blumenau.html</guid>
+        
+        
+        <category>encontros</category>
+        
+      </item>
+    
+      <item>
+        <title>Dojo Problema: A Única Chance</title>
+        <description>&lt;p&gt;No Segundo dojo de 2019 do GruPy Blumenau resolvemos um problema que foi &lt;a href=&quot;https://www.urionlinejudge.com.br/judge/pt/problems/view/2496&quot;&gt;“A Única Chance”&lt;/a&gt;. O evento aconteuceu na FURB e a solução deste problema você pode ver em nosso &lt;a href=&quot;https://github.com/pythonbnu/dojo/tree/master/2019_04_16&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/pythonbnu/&quot;&gt;GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://twitter.com/pythonbnu&quot;&gt;GruPyBnu no Twitter&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://telegram.me/GruPyBnu&quot;&gt;GruPyBnu no Telegram&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://hackerspaceblumenau.slack.com/messages/C6U70HXK4&quot;&gt;GruPyBnu no Slack&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/185266825299444/&quot;&gt;Lista de discussão GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/python.brasil/&quot;&gt;Comunidade de Python brasileira no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://groups.google.com/forum/#!forum/python-brasil&quot;&gt;Lista de discussão da comunidade de Python do Brasil&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Grande abraço!
+#forcapython&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+        <link>https://blumenau.sc.python.org.br/dojo/2019/04/17/dojo-a-unica-chance.html</link>
+        <guid isPermaLink="true">https://blumenau.sc.python.org.br/dojo/2019/04/17/dojo-a-unica-chance.html</guid>
+        
+        
+        <category>dojo</category>
+        
+      </item>
+    
+      <item>
+        <title>Workshop prático para iniciantes na linguagem Python</title>
+        <description>&lt;p&gt;No V Encontro do GruPy que aconteceu na FURB tivemos um Workshop prático para iniciantes na linguagem Python. Contamos com a ajuda dos 3 integrantes da comunidade para dar esse workshop que foram:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Júlio César Batista&lt;/li&gt;
+  &lt;li&gt;Patrícia Gonsalves&lt;/li&gt;
+  &lt;li&gt;Raffael Tancman&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Link para o material do worshop: &lt;a href=&quot;https://github.com/pythonbnu/workshop-python-iniciante&quot;&gt;https://github.com/pythonbnu/workshop-python-iniciante&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Fotos:
+&lt;img src=&quot;/assets/images/encontro-23-03-2019/iv_encontro_grupyblumenau_galera_1.jpg&quot; alt=&quot;Participantes do IV Econtro do Grupy&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/encontro-23-03-2019/iv_encontro_grupyblumenau_galera_2.jpg&quot; alt=&quot;Participantes do IV Econtro do Grupy&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/encontro-23-03-2019/iv_encontro_grupyblumenau_workshop_python_1.jpg&quot; alt=&quot;Foto do Workshop prático para iniciantes na linguagem Python&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/encontro-23-03-2019/iv_encontro_grupyblumenau_workshop_python_2.jpg&quot; alt=&quot;Foto do Workshop prático para iniciantes na linguagem Python&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/encontro-23-03-2019/iv_encontro_grupyblumenau_workshop_python_3.jpg&quot; alt=&quot;Foto do Workshop prático para iniciantes na linguagem Python&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/encontro-23-03-2019/iv_encontro_grupyblumenau_workshop_python_4.jpg&quot; alt=&quot;Foto do Workshop prático para iniciantes na linguagem Python&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/encontro-23-03-2019/iv_encontro_grupyblumenau_workshop_python_5.jpg&quot; alt=&quot;Foto do Workshop prático para iniciantes na linguagem Python&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/encontro-23-03-2019/iv_encontro_grupyblumenau_workshop_python_6.jpg&quot; alt=&quot;Foto do Workshop prático para iniciantes na linguagem Python&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/encontro-23-03-2019/iv_encontro_grupyblumenau_workshop_python_7.jpg&quot; alt=&quot;Foto do Workshop prático para iniciantes na linguagem Python&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Caso você queira se inteirar mais sobre a comunidade de Python, também sugerimos os seguintes links:&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/pythonbnu/&quot;&gt;GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://twitter.com/pythonbnu&quot;&gt;GruPyBnu no Twitter&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://telegram.me/GruPyBnu&quot;&gt;GruPyBnu no Telegram&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://hackerspaceblumenau.slack.com/messages/C6U70HXK4&quot;&gt;GruPyBnu no Slack&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/185266825299444/&quot;&gt;Lista de discussão GruPy Blumenau no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/groups/python.brasil/&quot;&gt;Comunidade de Python brasileira no Facebook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://groups.google.com/forum/#!forum/python-brasil&quot;&gt;Lista de discussão da comunidade de Python do Brasil&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Grande abraço!
+#forcapython&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Mar 2019 00:00:00 +0000</pubDate>
+        <link>https://blumenau.sc.python.org.br/workshops/2019/03/24/workshop-pratico-para-iniciantes-na-linguagem-python-no-grupy-blumenau.html</link>
+        <guid isPermaLink="true">https://blumenau.sc.python.org.br/workshops/2019/03/24/workshop-pratico-para-iniciantes-na-linguagem-python-no-grupy-blumenau.html</guid>
+        
+        
+        <category>workshops</category>
+        
+      </item>
+    
+  </channel>
+</rss>
